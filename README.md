@@ -8,21 +8,17 @@ Nexomon ภาษาไทย เป็นมอดสำหรับ **Nexomon 
 
 ## ดาวน์โหลด
 
-**มอดที่เตรียมไว้: v1.0.0-rc1** — ตอนนี้ยังไม่ได้เผยแพร่ไฟล์ ZIP บน GitHub ปุ่มมอดด้านล่างจึงพาไปหน้า Releases ไว้ก่อน ยังไม่ใช่ลิงก์ดาวน์โหลดไฟล์โดยตรงครับ
+**ดาวน์โหลดมอดภาษาไทย v1.0.0-rc1 ได้จากปุ่มด้านล่างครับ** — เผยแพร่เป็น Pre-release (Release Candidate)
 
 <p align="center">
-  <a href="https://github.com/IsAmArt/NEXOMON-MOD-THAI/releases">
-    <img src="https://img.shields.io/badge/NEXOMON_THAI-v1.0.0--rc1-2ea44f?style=for-the-badge" alt="ดาวน์โหลด Nexomon ภาษาไทย v1.0.0-rc1 — รอเผยแพร่" width="340" height="56">
+  <a href="https://github.com/IsAmArt/NEXOMON-MOD-THAI/releases/download/v1.0.0-rc1/NexomonThai_v1.0.0-rc1_MOD_ONLY.zip">
+    <img src="https://img.shields.io/badge/NEXOMON_THAI-v1.0.0--rc1-2ea44f?style=for-the-badge" alt="ดาวน์โหลด Nexomon ภาษาไทย v1.0.0-rc1" width="340" height="56">
   </a>
 </p>
 
-<p align="center"><a href="https://github.com/IsAmArt/NEXOMON-MOD-THAI/releases">ดาวน์โหลด Nexomon ภาษาไทย — หน้า Releases (รอเผยแพร่ไฟล์)</a></p>
+<p align="center"><a href="https://github.com/IsAmArt/NEXOMON-MOD-THAI/releases/download/v1.0.0-rc1/NexomonThai_v1.0.0-rc1_MOD_ONLY.zip">ดาวน์โหลด Nexomon ภาษาไทย v1.0.0-rc1 — ZIP โดยตรง</a></p>
 
-<!-- PREPARED_NOT_PUBLISHED: เมื่อเผยแพร่แล้ว ให้ยืนยัน tag และ asset จริงก่อนเปลี่ยน href ของปุ่มและลิงก์สำรองทั้งสองจุด
-Prepared asset URL, assuming the release tag is v1.0.0-rc1:
-https://github.com/IsAmArt/NEXOMON-MOD-THAI/releases/download/v1.0.0-rc1/NexomonThai_v1.0.0-rc1_MOD_ONLY.zip
-NEEDS_RECHECK_AFTER_RELEASE: URL ต้องดาวน์โหลด ZIP ได้จริงก่อนประกาศพร้อมใช้งานสาธารณะ
--->
+<!-- Direct ZIP download verified against the published v1.0.0-rc1 asset. -->
 
 <p align="center">
   <a href="https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.5/BepInEx_win_x64_5.4.23.5.zip">
@@ -51,7 +47,7 @@ SHA-256 ของไฟล์ที่เตรียมไว้:
 
 ผลนี้เป็นการยืนยันการติดตั้ง/เปิดใช้งานและเส้นทางการเล่นที่ผู้พัฒนาทดสอบ ไม่ใช่การยืนยันครบทุกภารกิจหรือทุกหน้าจอ ยังจับ Nexomon ในตำนานช่วงท้ายไม่ครบทุกตัว และยังไม่ได้ตรวจทุกกรณีหลังจากนั้น จึงยังไม่ยืนยันว่าจะมีเนื้อเรื่องเพิ่มเติมหรือไม่
 
-ชุด RC ผ่านการตรวจไฟล์ ZIP แล้ว และผล Notebook ด้านบนเป็นข้อมูลที่ผู้ใช้ยืนยันล่าสุด โดยยังไม่ได้เผยแพร่ไฟล์ดาวน์โหลดสาธารณะครับ
+ชุด RC ผ่านการตรวจไฟล์ ZIP แล้ว และผล Notebook ด้านบนเป็นข้อมูลที่ผู้ใช้ยืนยันล่าสุด โดยเผยแพร่เป็น Release Candidate ให้ดาวน์โหลดแล้วครับ
 
 > **หมายเหตุเกี่ยวกับคำแปล**
 >
@@ -72,10 +68,10 @@ SHA-256 ของไฟล์ที่เตรียมไว้:
 
 ## การติดตั้ง
 
-ใช้กับ Nexomon PC / Steam บน Windows x64 ก่อนอัปเดตมอด ให้ปิดเกมและสำรองมอดกับไฟล์ตั้งค่าเดิมไว้ก่อนครับ ขั้นตอนด้านล่างใช้เมื่อเปิดดาวน์โหลดมอดแล้ว
+ใช้กับ Nexomon PC / Steam บน Windows x64 ก่อนอัปเดตมอด ให้ปิดเกมและสำรองมอดกับไฟล์ตั้งค่าเดิมไว้ก่อนครับ ดาวน์โหลดมอดจากปุ่มด้านบนแล้วทำตามขั้นตอนด้านล่าง
 
 1. ดาวน์โหลด **BepInEx 5.4.23.5 x64** จากปุ่มด้านบน แล้วติดตั้งตาม [คู่มือฉบับเต็ม](INSTALLATION.md)
-2. ดาวน์โหลด ZIP มอด Nexomon ภาษาไทยจากหน้า Releases
+2. ดาวน์โหลด ZIP มอด Nexomon ภาษาไทยจากปุ่มด้านบน
 3. แตก ZIP มอด เปิดโฟลเดอร์ `NexomonThai` แล้วคัดลอกโฟลเดอร์ `BepInEx` ภายในไปวางในโฟลเดอร์เกม **ตำแหน่งเดียวกับไฟล์ `Nexomon.exe`** ไม่ใช่ใน `Nexomon_Data`
 4. เปิดเกม แล้วเลือก **THAI** จากแถบธงเปลี่ยนภาษาที่หน้าเริ่มเกม
 

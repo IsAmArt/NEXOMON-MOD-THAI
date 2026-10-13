@@ -28,7 +28,7 @@ Some sentences may still need contextual polishing, and word wrapping or line br
 - Current TA Regular/Bold and typography preserved
 - ZIP: `NexomonThai_v1.0.0-rc1_MOD_ONLY.zip`
 - SHA-256: `68D2A0BE60C2EBCE577B50FC268FD63D1CEA58A2899283BF13CFD9EEBB8F879C`
-- Mod direct download: PREPARED_NOT_PUBLISHED; temporary [Releases page](https://github.com/IsAmArt/NEXOMON-MOD-THAI/releases)
+- [Mod direct download](https://github.com/IsAmArt/NEXOMON-MOD-THAI/releases/download/v1.0.0-rc1/NexomonThai_v1.0.0-rc1_MOD_ONLY.zip) — published pre-release
 - Windows x64 / BepInEx 5.4.23.5 x64 installed separately; [installation](INSTALLATION.md)
 
 Warden: TA Font visually confirmed. Volleyball: manual retest pending. Expansion popup: manual retest pending. Further fallback/individual-case checks remain; they are not automatically release blockers if gameplay is unaffected. No exhaustive regression claim.
